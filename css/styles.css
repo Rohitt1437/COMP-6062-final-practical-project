@@ -22,7 +22,7 @@ footer{
     margin-bottom: 50px;
 
 }
-@media(max-width: 750px){
+@media(max-width: 800px){
     body{
         background-color: blue;
         color: aliceblue;
