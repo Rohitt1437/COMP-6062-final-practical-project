@@ -18,11 +18,11 @@ text-align: center;
 }
 footer{
     text-align: center;
-    color: blue;
+    color:orange;
     margin-bottom: 50px;
 
 }
-@media(min-width: 750px){
+@media(max-width: 750px){
     body{
         background-color: blue;
         color: aliceblue;

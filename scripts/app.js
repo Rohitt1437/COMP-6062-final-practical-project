@@ -2,9 +2,9 @@ console.log('JS LOADED!')
 const app = Vue.createApp({
     data() {
   return {
-    userprofile: [],        // will hold the API object directly
-    weatherData: [],        // will hold the API object directly
-    dictionary: [],         // will hold the API object directly
+    userprofile: [],        
+    weatherData: [],        
+    dictionary: [],         
     City: 'London',
     Province: 'Ontario',
     Country: 'Canada',
